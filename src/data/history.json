@@ -8,11 +8,20 @@
       "imageSrc":"history/Shaper.png"
     },
     {
-      "role":"Systems Support",
-      "organisation":"Velisa Africa",
-      "startDate":"February, 2023",
-      "endDate":"December, 2023",
-      "experiences":["Worked on creating VMs","Configure routers","setUp servers "],
+      "role":"Systems Developer Intern",
+      "organisation":"Ikusasa Student Financial Aid Programme",
+      "startDate":"April, 2023",
+      "endDate":"September, 2023",
+      "experiences":["Worked on assisting senior developers with coding","Assisting administrators with outbound calls and data capturing","setUp servers "],
+      "imageSrc":"history/Velisa.png"
+    }
+    ,
+    {
+      "role":"Cloud Computing Intern",
+      "organisation":"Capaciti, UVU Africa",
+      "startDate":"September, 2022",
+      "endDate":"March, 2023",
+      "experiences":["Obtained my Microsoft Azure Certification "],
       "imageSrc":"history/Velisa.png"
     }
 ]
