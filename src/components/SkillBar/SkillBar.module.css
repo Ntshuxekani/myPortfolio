@@ -1,0 +1,28 @@
+.skillContainer {
+    margin-bottom: 20px;
+  }
+  
+  .skillName {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .skillBarBackground {
+    width: 100%;
+    height: 20px;
+    background-color: #e0e0e0; /* Light gray for the background */
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  .skillBarFill {
+    height: 100%;
+    background: linear-gradient(
+      to right,
+      #61dafb 0%,
+      yellow 20%
+    ); /* You can use a gradient or solid color */
+    transition: width 0.3s ease;
+    border-radius: 10px;
+  }
+  

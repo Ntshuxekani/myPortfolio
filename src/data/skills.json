@@ -1,0 +1,30 @@
+[ {
+    "title":"SPRINGBOOT",
+    "imageSrc":"skills/springboot.png",
+    "level": 50
+  },
+
+  {
+    "title":"POSTGRESQL",
+    "imageSrc":"skills/postgresql.png",
+    "level": 50
+  },
+  
+    {
+      "title": "HTML & CSS",
+      "imageSrc": "skills/html.png",
+      "level": 70
+    },
+    {
+      "title": "Angular",
+      "imageSrc": "skills/angular.png",
+      "level": 60
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png",
+      "level": 40
+    }
+  
+  
+]
